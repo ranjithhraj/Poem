@@ -6,5 +6,6 @@ Blue
 Red
 Yellow
 Green
+Indigo
 magenta
 and the unicorn
