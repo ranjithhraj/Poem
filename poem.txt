@@ -6,3 +6,4 @@ Blue
 Red
 Yellow
 Green
+magenta
